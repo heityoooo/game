@@ -1,0 +1,9 @@
+﻿  GameData.cpp
+  GameFunction.cpp
+D:\DxLib2DGames\Project\20240513\GameData.cpp(25,8): error C2374: 'frameCount': 再定義されています。2 回以上初期化されています。
+  D:\DxLib2DGames\Project\20240513\GameData.h(45,15):
+  'frameCount' の宣言を確認してください
+  
+D:\DxLib2DGames\Project\20240513\GameFunction.cpp(41,26): error C2065: 'STRAT_STRING_X': 定義されていない識別子です。
+D:\DxLib2DGames\Project\20240513\GameFunction.cpp(41,42): error C2065: 'STRAT_STRING_Y': 定義されていない識別子です。
+  コードを生成中...
